@@ -38,6 +38,15 @@ A classe `DataQuality` recebe o caminho de um arquivo CSV e gera um relatório d
 3. Análise estatística das **colunas numéricas** (média, mínimo, máximo, etc.).
 4. **Gráficos** de dispersão, histogramas e linhas para visualização dos dados.
 
+### Pacotes necessários:
+```python
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install pyfiglet
+pip install IPython.display
+```
+
 ### Exemplo de uso da classe:
 
 ```python
