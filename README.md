@@ -45,6 +45,7 @@ pip install pandas
 pip install matplotlib
 pip install pyfiglet
 pip install IPython.display
+pip install tabulate
 ```
 
 ### Exemplo de uso da classe:
